@@ -1,6 +1,6 @@
 #Viewing graph in the browser, 5 methods
 
-This repository comes along with the blog post http://alexandremasselot.blogspot.com/XXXX
+This repository comes along with the blog post [http://alexandre-masselot.blogspot.com/2014/05/viewing-graphs-in-browser.html](http://alexandre-masselot.blogspot.com/2014/05/viewing-graphs-in-browser.html)
 It propose basic code to demonstrate some features of different approaches to display and interact with graphs in the browser.
 
 
